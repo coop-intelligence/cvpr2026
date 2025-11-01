@@ -1,4 +1,4 @@
-import { getAssetPath } from "../../utils/path";
+import { getAssetPath } from "../../utils/path.js";
 
 const PersonAvatar = ({image, name, affiliation, link}) => {
     return (
